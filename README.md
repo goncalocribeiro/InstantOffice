@@ -7,4 +7,4 @@ Discipline: DataBases
 
 Programming Language: SQL
 
-Objective: 
+Objective: The InstantOffice system manages workstations for mobile workers' co-works workspaces in European capitals for entrepreneurs              and / or self-employed workers.
