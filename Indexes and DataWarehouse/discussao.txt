@@ -1,0 +1,14 @@
+Discussão:
+
+- OLAP
+    - Como racionalizamos e como modelamos, dado que não existem os comandos em mysql no OLAP(dimensões, etc...)
+    - Mostrar que é possivel fazer roolback até edificio e ano
+    - Saber modelo em estrela
+    - Indices, tentar perceber (saber teoria e saber o que está a acontecer)
+    - Indices com poucos registos é mais lento, ir à tabela procurar o apontador e ir à tebal fisica procurar o           valor, logo é mais lento.
+    - Possivel pergunta: tens select dentro do from, fazer sem select dentro de from.
+    - Saber fazer querys com divisão com querys encadeadas
+
+Projeto:
+
+- Considerar edificios
